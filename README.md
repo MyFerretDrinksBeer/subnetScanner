@@ -1,5 +1,5 @@
 # subnetScanner
-Ping a range of subnets within your LAN to check which hosts are up. To use simply enter your current IP and the range you would like too scan. 
+Ping a range of subnets within your LAN to check which hosts are up. To use simply enter your current IP and the range you would like to scan. 
 
 
 <h1>Setup & Use</h1>
