@@ -7,6 +7,6 @@ Ping a range of subnets within your LAN to check which hosts are up. To use simp
 <ul>
   <li>download or git-clone this repo</li>
   <li><b><i>"cd"</i></b> into the repo folder and run these two npm commands <b>"npm init -y"</b> and <b>"npm install node-cmd inquirer ora chalk --save"</b></li>
-  <li>you can now use subnetScanner by running <b>"node subnetScanner.js"</b> while inside the repo folder</li>
+  <li>you can now use subnetScanner by running <b>"node subnetScanner.js"</b> while inside the repo'd folder</li>
   <li>enjoy</li>
 </ul>
